@@ -1,1 +1,1 @@
-# fullstack-example.server
+# fullstack-example-server
